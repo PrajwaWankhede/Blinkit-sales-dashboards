@@ -19,4 +19,4 @@ Outlet Size: Small outlets lead with $507K, followed by High and Medium.
 
 🎯 Why it matters: This dashboard isn’t just about numbers—it’s about enabling smarter decisions for inventory, marketing, and outlet expansion.
 
-Let me know what you think! Would love feedback from fellow data enthusiasts. #PowerBI #DataAnalytics #DashboardDesign #Blinkit #StorytellingWithData #DataVisualization #LinkedInPost
+Dashboard: (https://github.com/PrajwaWankhede/Blinkit-sales-dashboards/blob/main/blinkit%20img.png)
